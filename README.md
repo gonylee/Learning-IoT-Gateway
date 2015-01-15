@@ -1,7 +1,7 @@
 Learning-IoT-CoapGateway
 ========================
 
-Source code for the Creating protocol gateways chapter of the book "Learning Internet of Things".
+Source code for the Creating protocol gateways chapter of the book [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things).
 
 This chapter covers the basics of how to build protocol gateways by using the Internet of Things service platform Clayster. It shows the benefits of using a well-defined hardware abstraction model available in such a platform, to make devices interoperate across protocols.
 
